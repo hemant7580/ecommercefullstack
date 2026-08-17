@@ -15,7 +15,7 @@ function Footer() {
                     <p className="text-[15px] text-[#1e2223] hidden md:block">OneCart is your all-in-one online shopping
                         destination, offering top-quality products, unbeatable deals, and fast delivery-all backed by trusted service designed to make your life easier every day.
                     </p>
-                    <p className="text-[15px] text-[#1e2223] flex md:hidden">Fast. Easy. Reliable. OneCart Shopping</p>
+                    <p className="text-[13px] text-[#1e2223] flex md:hidden">Fast. Easy. Reliable. OneCart Shopping</p>
 
                 </div>
 
@@ -25,9 +25,9 @@ function Footer() {
                     </div>
                     <ul>
                         <li className="text-[15px] text-[#1e2223] hidden md:block cursor-pointer">Home</li>
-                        <li className="text-[15px] text-[#1e2223] cursor-pointer">About Us</li>
+                        <li className="text-[13px] md:text-[15px] text-[#1e2223] cursor-pointer">About Us</li>
                         <li className="text-[15px] text-[#1e2223] hidden md:block cursor-pointer">Delivery</li>
-                        <li className="text-[15px] text-[#1e2223] cursor-pointer">Privacy Policy</li>
+                        <li className="text-[13px] md:text-[15px] text-[#1e2223] cursor-pointer">Privacy Policy</li>
                     </ul>
                 </div>
 
@@ -38,9 +38,9 @@ function Footer() {
 
                     <ul>
                         <li className="text-[15px] text-[#1e2223] hidden md:block cursor-pointer">+91-7580840046</li>
-                        <li className="text-[15px] text-[#1e2223] cursor-pointer">contact@onecart.com</li>
+                        <li className="text-[13px] md:text-[15px] text-[#1e2223] cursor-pointer">contact@onecart.com</li>
                         <li className="text-[15px] text-[#1e2223] hidden md:block cursor-pointer">+1-123-456-7890</li>
-                        <li className="text-[15px] text-[#1e2223] cursor-pointer">admin@onecart123.com</li>
+                        <li className="text-[13px] md:text-[15px] text-[#1e2223] cursor-pointer">admin@onecart123.com</li>
                     </ul>
                 </div>
             </div>

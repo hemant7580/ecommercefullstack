@@ -133,7 +133,7 @@ function Collections() {
                 </div>
             </div>
 
-            <div className="lg:pl-[20%] md:py-[10px]">
+            <div className={`lg:pl-[20%] md:py-[10px] ${showFilter ? "mt-[14vh] md:mt-0" : ""}`}>
                 <div className="md:w-[80vw] w-[100vw] p-[20px] flex justify-between flex-col lg:flex-row lg:px-[50px]">
                     <Title text1={"ALL"} text2={"COLLECTIONS"}/>
 
