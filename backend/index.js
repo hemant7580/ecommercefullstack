@@ -49,7 +49,11 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
+<<<<<<< HEAD
   origin: ["https://ecommercefullstack-frontend-t811.onrender.com","https://ecommercefullstack-admin.onrender.com"],
+=======
+  origin: ["https://ecommercefullstack-frontendone.onrender.com","https://ecommercefullstack-admin.onrender.com"],
+>>>>>>> 77f5e60d86c11dd80250ce775dec4461dd445f94
   credentials: true,
 }))
 
